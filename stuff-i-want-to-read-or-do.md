@@ -18,6 +18,8 @@ Currently in my sight is:
 - https://openai.com/index/extracting-concepts-from-gpt-4/
 - https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
 - https://huggingface.co/EleutherAI/sae-llama-3-8b-32x
+#### diffusion models
+- https://course.fast.ai/Lessons/part2.html
 #### some more C++/C                    
 - will see
 #### scala? + spark?                    
