@@ -22,4 +22,6 @@ Currently in my sight is:
 - will see
 #### scala? + spark?                    
 - probably some random projects
-
+#### mathacademy (revisions)
+- https://mathacademy.com
+#### statistical physics 
