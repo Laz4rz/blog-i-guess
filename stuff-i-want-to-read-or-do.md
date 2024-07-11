@@ -19,6 +19,7 @@ Currently in my sight is:
 - https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
 - https://huggingface.co/EleutherAI/sae-llama-3-8b-32x
 #### diffusion models
+- https://x.com/Laz4rz/status/1792165862079692979
 - https://course.fast.ai/Lessons/part2.html
 #### some more C++/C                    
 - will see
