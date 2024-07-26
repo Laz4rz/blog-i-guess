@@ -5,6 +5,7 @@ Currently in my sight is:
 #### kaleidoscope                       
 - https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/LangImpl01.html
 - http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
+- https://timothya.com/pdfs/crafting-interpreters.pdf
 #### raytracer                          
 - https://raytracing.github.io/books/RayTracingInOneWeekend.html
 #### deep-ml                           
