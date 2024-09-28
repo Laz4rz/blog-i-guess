@@ -15,6 +15,8 @@ Currently in my sight is:
 #### CUDA zero to hero (puzzles/CS)     
 - https://github.com/srush/GPU-Puzzles
 - https://github.com/udacity/cs344
+- Triton
+- GPU MODE lectures
 #### autoencoders and control vectors   
 - https://openai.com/index/extracting-concepts-from-gpt-4/
 - https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
@@ -29,3 +31,6 @@ Currently in my sight is:
 #### mathacademy (revisions)
 - https://mathacademy.com
 #### statistical physics 
+
+#### LISP
+- https://www.cs.cmu.edu/~dst/LispBook/book.pdf
