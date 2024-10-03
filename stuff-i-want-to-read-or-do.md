@@ -17,6 +17,7 @@ Currently in my sight is:
 - https://github.com/udacity/cs344
 - Triton
 - GPU MODE lectures
+- https://ppc-exercises.cs.aalto.fi/course/open2024c/llm
 #### autoencoders and control vectors   
 - https://openai.com/index/extracting-concepts-from-gpt-4/
 - https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
